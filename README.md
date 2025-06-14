@@ -5,8 +5,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankaraotcu&layout=compact&theme=default" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakankaraotcu&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakankaraotcu&layout=compact&theme=dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakankaraotcu&theme=dark" width="49%" />
   <sub>※ Stats include only public repositories. Actual activity is higher due to extensive private project development.</sub>
 </p>
 
